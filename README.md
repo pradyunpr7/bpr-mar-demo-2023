@@ -2,7 +2,7 @@
 
 ## Date  Time:  5:54 pm Saturday, 18 March 2023(IST)
 
-![Pradyun Reddy|150x200](.\Documentation\Images\Pradyun.png)
+![Pradyun Reddy|150x200](.\Documentation\Images\Pradyun.PNG)
 
 
 ## Java Training acquired
