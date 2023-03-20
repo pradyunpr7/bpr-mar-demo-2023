@@ -2,7 +2,11 @@
 
 ## Date  Time:  5:54 pm Saturday, 18 March 2023(IST)
 
-![Pradyun Reddy|150x150](./Documentation/Images/Pradyun.png)
+
+
+![Pradyun Reddy|150x150](./Documentation/Images/profile.png)
+
+
 
 
 
@@ -16,8 +20,19 @@
  
 ## Java Core Algorithms
  
-> 1. Searching Algorithms
-> 1. Sorting Algorithms
+> 1. Searching Algorithms : Performing two major searching algorithms-
+                            > Linear Search: Linear search is a very simple search algorithm. In this type of search, a sequential search is done for all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.
+                             > Time Complexity: O(n).
+                            > Binary Search: an efficient method of searching an ordered list. A binary search works like this: Start by setting the counter to the middle position in the list. If the value held there is a match, the search ends. If the value at the midpoint is less than the value to be found, the list is divided in half.
+                             >Time Complexity: O(logn).
+
+
+
+                          
+                            
+                             
+                            
+
 
 ## Pull Request process, Continues Integration and Continues Delivery
 
@@ -36,7 +51,46 @@
 ### Connecting to SQL Server and Database hosted in Azure using VSCode
 ![Sql Azure|150x150](./Documentation/Images/ConnectingSqlServerUsingVSCode.png)
  
-## JDBC with Sqlite Console App
- 
-> 1. Topic-1
-> 1. Topic-2
+## Read and Delete Operations
+![Sql Azure|150x150](./Documentation/Images/CRUD.png)
+
+## TicTacToe Using JavaFX 
+
+> Designing a basic tic-tac-toe program using  various Javafx components such as
+grid pane , border pane, ellips,event handlers,cells and labels.
+
+## Installation
+
+To use this calculator app, you can follow the steps below:
+
+> 1. Clone the repository. You can also download the zip file and extract it to your preferred directory.
+
+> 2. Open the project in your favorite Java IDE (e.g. Eclipse, IntelliJ IDEA, NetBeans). Ensure that you have installed the necessary dependencies required for the project to run.
+
+> 3. Run the Main.java file. This should open the Tic-tac-toe window. 
+
+
+## Usage
+
+### The application is designed to perform a basic tic-tac toe game.
+> 1. The game first begins with X's Turn .
+
+> 2. Followed by X's Turn is that of O's.
+
+> 3. The process loops until there is a tie case or until a winner is obtain by obtaining the right patterns.
+
+> 4. The Result is displayed in the text field below.
+
+
+
+## Design 
+
+![Tic Tac Toe|150x150](./Documentation/Images/Screenshot%20(225).png)
+
+
+## Code Description
+
+> 1. Create Main class which extend Application and override start method.()
+
+
+
