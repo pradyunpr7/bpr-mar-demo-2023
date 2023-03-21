@@ -4,7 +4,7 @@
 
 
 
-![Pradyun Reddy|150x150](./Documentation/Images/profile.png)
+![Pradyun Reddy|150x150](./Documentation/Images/Pradyun_intro.png)
 
 
 
@@ -21,10 +21,12 @@
 ## Java Core Algorithms
  
 > 1. Searching Algorithms : Performing two major searching algorithms-
-                            > Linear Search: Linear search is a very simple search algorithm. In this type of search, a sequential search is done for all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.
-                             > Time Complexity: O(n).
-                            > Binary Search: an efficient method of searching an ordered list. A binary search works like this: Start by setting the counter to the middle position in the list. If the value held there is a match, the search ends. If the value at the midpoint is less than the value to be found, the list is divided in half.
-                             >Time Complexity: O(logn).
+
+> Linear Search: Linear search is a very simple search algorithm. In this type of search, a sequential search is done for all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.                           
+> Time Complexity: O(n).
+
+> Binary Search: an efficient method of searching an ordered list. A binary search works like this: Start by setting the counter to the middle position in the list. If the value held there is a match, the search ends. If the value at the midpoint is less than the value to be found, the list is divided in half.
+>Time Complexity: O(logn).
 
 
 
@@ -34,7 +36,12 @@
                             
 
 
-## Pull Request process, Continues Integration and Continues Delivery
+## Pull Request process, Continues Integration and Continues Delivery 
+
+**References:**
+> 1. [https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops](https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops)
+> 1. [https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-baseline](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-baseline)
+
 
 ![Sql Azure|150x150](./Documentation/Images/PR-CI-CD.png)
 
