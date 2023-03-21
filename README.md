@@ -61,6 +61,10 @@
 
 ![Sql Azure|150x150](./Documentation/Images/PR-CI-CD.png)
 
+![Push Pull|150x150](./Documentation/Images/PR.png)
+
+
+
 ## CRUD Operations with JDBC and Azure SQL Server
 
 > 1. We have created SQL Server and Database in Azure portal.
