@@ -22,11 +22,27 @@
  
 > 1. Searching Algorithms : Performing two major searching algorithms-
 
-> Linear Search: Linear search is a very simple search algorithm. In this type of search, a sequential search is done for all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.                           
+> **Linear Search**: Linear search is a very simple search algorithm. In this type of search, a sequential search is done for all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.                           
 > Time Complexity: O(n).
 
-> Binary Search: an efficient method of searching an ordered list. A binary search works like this: Start by setting the counter to the middle position in the list. If the value held there is a match, the search ends. If the value at the midpoint is less than the value to be found, the list is divided in half.
+ ![Linear Search|150x150](./Documentation/Images/download.jpg)
+
+
+
+
+> **Binary Search**: an efficient method of searching an ordered list. A binary search works like this: Start by setting the counter to the middle position in the list. If the value held there is a match, the search ends. If the value at the midpoint is less than the value to be found, the list is divided in half.
+
 >Time Complexity: O(logn).
+
+
+![Binary Search|150x150](./Documentation/Images/BinarySearch.png)
+
+> Sorting Algorithm(Merge Sort): Merge sort is a sorting algorithm that works by dividing an array into smaller subarrays, sorting each subarray, and then merging the sorted subarrays back together to form the final sorted array.
+
+
+![Merge Sort|150x150](./Documentation/Images/MergeSortTutorial.png)
+
+
 
 
 
@@ -97,7 +113,7 @@ To use this calculator app, you can follow the steps below:
 
 ## Code Description
 
-> 1. Create Main class which extend Application and override start method.()
+> 1. Create Main class which extend Application and override start method.(https://github.com/pradyunpr7/bpr-mar-demo-2023/blob/main/JavaFX/tictactoe/Main.java)
 
 
 
